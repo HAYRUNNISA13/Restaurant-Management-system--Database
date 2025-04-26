@@ -1,0 +1,1 @@
+In this project, I developed a system with an interface using SQL codes that handles all interactions that may occur in a restaurant. Customer orders, menu management, and reservation systems were managed with SQL queries.
